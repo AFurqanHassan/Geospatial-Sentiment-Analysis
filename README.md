@@ -1,10 +1,10 @@
 # Geospatial-Sentiment-Analysis
 
-Geospatial sentiment analysis involves using geolocation data to understand the sentiment of social media posts about a specific topic, in this case, a conference on climate change. This can be useful for understanding how people around the world feel about the conference and the issues it is discussing. To perform geospatial sentiment analysis on a dataset of tweets, you would first need to gather the tweets and extract the geolocation data for each one. You could then use a tool like a geocoder to convert the latitude and longitude data into more meaningful location names, such as city and country.
+Geospatial sentiment analysis involves using geolocation data to understand the sentiment of social media posts about a specific topic, in this case, a conference on climate change. This can be useful for understanding how people around the world feel about the conference and the issues it is discussing. To perform geospatial sentiment analysis on a dataset of tweets, you would first need to gather the tweets and extract the geolocation data for each one.
 
 Once you have the location data for each tweet, you can use a natural language processing (NLP) tool to analyze the sentiment of the text in the tweets. There are many different NLP tools available, some of which are specifically designed for sentiment analysis. These tools typically use a combination of machine learning algorithms and dictionaries of words with known sentiment values to determine the overall sentiment of a given piece of text.
 
-Once you have the sentiment data for each tweet, you can then plot the results on a map using a geospatial visualization tool. This will allow you to see how sentiment about the conference varies by location. You can also use statistical analysis techniques to look for patterns or trends in the data. For example, you might find that sentiment is generally more positive in certain parts of the world than in others, or that sentiment changes over time as the conference progresses.
+Once the sentiment data for each tweet is obtained, results are plotted on a map using a geospatial visualization tool. This allows you to see how sentiment about the conference varies by location. For example, you might find that sentiment is generally more positive in certain parts of the world than in others, or that sentiment changes over time as the conference progresses.
 
 # Code description 
 
